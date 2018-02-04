@@ -21,7 +21,9 @@
 </dl>
 <h2>GitHub创建项目</h2>
 <dl>
-	<h4>点击'+'号-> New repository->填上名称以及描述->创建</h4>
+	<dd>
+		<p>点击'+'号-> New repository->填上名称以及描述->创建</p>
+	</dd>
 </dl>
 <h2>上传项目</h2>
 <dl>
@@ -34,3 +36,8 @@
 		<p>git push -u origin master</p>
 	</dd>
 </dl>
+
+
+
+
+
