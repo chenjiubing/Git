@@ -27,10 +27,10 @@
 <dl>
 	<h4>全新项目</h4>
 	<dd>
-		<p>git init
+		<p>git init</p>
 		<p>git add '文件名'</p>
 		<p>git commit -m '描述'</p>
-        	<p>git remote add origin '地址'</p>
+		<p>git remote add origin '地址'</p>
         	<p>git push -u origin master</p>
 	</dd>	
 	<h4>已有项目</h4>	
