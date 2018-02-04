@@ -10,8 +10,7 @@
 	</dd>
 	<h4>c).在github里面填上秘钥</h4>
 	<dd>
-		<p>点击头像->settings->SSH keys-></p>
-		<p>填写title，秘钥</p>
+		<p>点击头像->settings->SSH keys-> 填写title，秘钥</p>
 	</dd>
 	<h4>d). 配置本机git</h4>
 	<dd>
