@@ -1,22 +1,4 @@
 # Git使用方法
-<<<<<<< HEAD
-<h2>本地电脑和github关联：</h2>
-<ul>
-	<li>本机需要生成一个秘钥:</li>
-	<li>a).ssh-keygen -t rsa -C "邮箱"</li>
-	<li>b).一路回撤</li>
-	<li>取出秘钥：id_rsa.pub</li>
-	<li>window XP:  C:\Documents and Settings\Administrator\.ssh</li>
-	<li>window7：C:\Users\THINK\.ssh</li>
-	<li>c).在github里面填上秘钥</li>
-	<li>点击头像->settings->SSH keys-></li>
-	<li>填写title，秘钥</li>
-	<li>d). 配置本机git</li>
-	<li>git config -l 查看本机git配置</li>
-	<li>git config --global user.email "email"</li>
-	<li>git config --global user.name ""</li>
-</ul>
-=======
 <h2>本地电脑和github关联 生成一个秘钥：</h2>
 <dl>
 	<h4>a).ssh-keygen -t rsa -C "邮箱"</h4>
@@ -62,9 +44,5 @@
 		<p>git add _A ：将文件的修改、文件的删除、文件的新建、添加到暂存区</p>		
 	</dd>
 </dl>
-
-
-
->>>>>>> 350b6c36065e5b9c552b1df122b4902a6a96f536
 
 
