@@ -5,7 +5,7 @@
 </style>
 <p>Git使用方法</p>
 <p>1.本地电脑和github关联：</p>
-<p class="pL12">本机需要生成一个秘钥：</p>
+<p style="padding-left: 12px;">本机需要生成一个秘钥：</p>
 <p class="pL12">a).ssh-keygen -t rsa -C "邮箱"</p>
 <p class="pL12">b).一路回撤</p> 
 <p class="pL24">取出秘钥：id_rsa.pub</p>
