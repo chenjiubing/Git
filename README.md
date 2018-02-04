@@ -23,23 +23,14 @@
 <dl>
 	<h4>点击'+'号-> New repository->填上名称以及描述->创建</h4>
 </dl>
-<h2>创建本地项目</h2>
+<h2>上传项目</h2>
 <dl>
-	<h4>全新项目</h4>
+	<h4></h4>
 	<dd>
 		<p>git init</p>
-		<p>git add '文件名'</p>
+		<p>git add '文件'</p>
 		<p>git commit -m '描述'</p>
-		<p>git remote add origin '地址'</p>
-        	<p>git push -u origin master</p>
-	</dd>	
-	<h4>已有项目</h4>	
-	<dd>
-		<p>git clone '地址'</p>
-	</dd>	
-	
+		<p>git remote add origin '地址' || git add origin '地址'</p>
+		<p>git push -u origin master</p>
+	</dd>
 </dl>
-
-
-
-
