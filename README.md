@@ -4,8 +4,8 @@
 	<dt>b).一路回撤</dt>
 	<dd>
 		<p>取出秘钥：id_rsa.pub</p>
-		<p>>window XP:  C:\Documents and Settings\Administrator\.ssh</p>
-		<p>>window7：C:\Users\THINK\.ssh</p>
+		<p>window XP:  C:\Documents and Settings\Administrator\.ssh</p>
+		<p>window7：C:\Users\THINK\.ssh</p>
 	</dd>
 </dl>
 <ul>
