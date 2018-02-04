@@ -1,5 +1,5 @@
 # Git使用方法
-<h2>本地电脑和github关联：</h2>
+<h4>本地电脑和github关联：</h4>
 <ul>
 	<li>本机需要生成一个秘钥:</li>
 	<li>a).ssh-keygen -t rsa -C "邮箱"</li>
