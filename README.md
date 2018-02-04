@@ -19,6 +19,11 @@
 		<p>git config --global user.name ""</p>
 	</dd>
 </dl>
+<h2>GitHub创建项目</h2>
+<dl>
+	<dt>点击'+'号-> New repository->填上名称以及描述->创建</dt>
+</dl>
+
 
 
 
