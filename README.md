@@ -36,6 +36,14 @@
 		<p>git push -u origin master</p>
 	</dd>
 </dl>
+<h2>常用命令</h2>
+<dl>
+	<dd>
+		<p>git add . ：将文件的修改、文件的新建、添加到暂存区</p>
+		<p>git add _U ：将文件的修改、文件的删除、添加到暂存区</p>
+		<p>git add _A ：将文件的修改、文件的删除、文件的新建、添加到暂存区</p>		
+	</dd>
+</dl>
 
 
 
