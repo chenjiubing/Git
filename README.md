@@ -75,5 +75,19 @@
 		<p>git checkout -- test.txt(错删从版本库获取)</p>
 	</dd>
 </dl>
+<h2>创建与合并分支</h2>
+<dl>
+	<dd>
+		<p>查看分支：git branch</p>
+		<p>创建分支：git branch [分支名字]</p>
+		<p>切换分支：git checkout [分支名字]</p>
+		<p>创建+切换分支：git checkout -b [分支名字]</p>
+		<p>合并某分支到当前分支：git merge [分支名字]</p>
+		<p>删除分支：git branch -d [分支名字]</p>
+		<p>分支文件提交完成后切回到主分支进行合并</p>
+	</dd>
+</dl>
+
+
 
 
