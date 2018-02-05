@@ -19,10 +19,15 @@
 		<p>git config --global user.name ""</p>
 	</dd>
 </dl>
-<h2>GitHub创建项目</h2>
+<h2>远程仓库</h2>
 <dl>
+	<h4>添加远程仓库</h4>
 	<dd>
 		<p>点击'+'号-> New repository->填上名称以及描述->创建</p>
+	</dd>
+	<h4>远程仓库克隆</h4>
+	<dd>
+		<p>git clone git@github.com:*****/******.git</p>
 	</dd>
 </dl>
 <h2>上传项目</h2>
@@ -32,8 +37,8 @@
 		<p>git init</p>
 		<p>git add '文件'</p>
 		<p>git commit -m '描述'</p>
-		<p>git remote add origin '地址' || git add origin '地址'</p>
-		<p>git push -u origin master</p>
+		<p>git remote add origin git@github.com:*****/******.git || git add origin git@github.com:*****/******.git</p>
+		<p>git push -u origin master || git push origin master</p>
 	</dd>
 </dl>
 <h2>常用命令</h2>
