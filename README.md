@@ -46,7 +46,8 @@
 	<dd>
 		<p>git add . ：将文件的修改、文件的新建、添加到暂存区</p>
 		<p>git add _U ：将文件的修改、文件的删除、添加到暂存区</p>
-		<p>git add _A ：将文件的修改、文件的删除、文件的新建、添加到暂存区</p>		
+		<p>git add _A ：将文件的修改、文件的删除、文件的新建、添加到暂存区</p>	
+		<p>git pull --rebase origin master 解决(push到gitHub时可能会出错)</p>
 	</dd>
 </dl>
 <h2>版本回退</h2>
