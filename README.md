@@ -55,6 +55,7 @@
 		<p>git log || git log --pretty=oneline :(打印修改日志版本)</p>
 		<p>git reset --hard HEAD^ || git reset --hard '版本id'</p>
 		<p>cat '文件' :(打印出内容)</p>
+		<p>git reflog : (查看命令历史)</p>
 	</dd>
 </dl>
 <h2>撤销修改</h2>
