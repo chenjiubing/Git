@@ -36,7 +36,7 @@
 	<dd>
 		<p>git init</p>
 		<p>git add '文件'</p>
-		<p>git commit -m '描述'</p>
+		<p>git commit -m '描述' :(提交到暂存区域)</p>
 		<p>git remote add origin git@github.com:*****/******.git || git add origin git@github.com:*****/******.git</p>
 		<p>git push -u origin master || git push origin master</p>
 	</dd>
@@ -51,11 +51,18 @@
 </dl>
 <h2>版本回退</h2>
 <dl>
-	<h4></h4>
 	<dd>
 		<p>git log || git log --pretty=oneline :(打印修改日志版本)</p>
 		<p>git reset --hard HEAD^ :(版本回退)</p>
 		<p>cat '文件' :(打印出内容)</p>
+	</dd>
+</dl>
+<h2>撤销修改</h2>
+<dl>
+	<dd>
+		<p>当你改乱了工作区某个文件的内容，想直接丢弃工作区的修改时，用命令git checkout -- file</p>
+		<p>当你不但改乱了工作区某个文件的内容，还添加到了暂存区时，想丢弃修改，分两步，第一步用命令git reset HEAD file，就回到了场景1，第二步按场景1操作</p>
+		<p>已经提交了不合适的修改到版本库时，想要撤销本次提交，参考版本回退一节，不过前提是没有推送到远程库</p>
 	</dd>
 </dl>
 
