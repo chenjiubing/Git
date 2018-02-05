@@ -85,9 +85,9 @@
 		<p>合并某分支到当前分支：git merge [分支名字]</p>
 		<p>删除分支：git branch -d [分支名字]</p>
 		<p>分支文件提交完成后切回到主分支进行合并</p>
+		<p><a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git教程--廖雪峰的官方网站</a></p>
 	</dd>
 </dl>
-<p><a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git教程--廖雪峰的官方网站</a></p>
 
 
 
