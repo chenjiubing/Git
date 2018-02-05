@@ -53,7 +53,7 @@
 <dl>
 	<dd>
 		<p>git log || git log --pretty=oneline :(打印修改日志版本)</p>
-		<p>git reset --hard HEAD^ :(版本回退)</p>
+		<p>git reset --hard HEAD^ || git reset --hard '版本id'</p>
 		<p>cat '文件' :(打印出内容)</p>
 	</dd>
 </dl>
