@@ -49,5 +49,14 @@
 		<p>git add _A ：将文件的修改、文件的删除、文件的新建、添加到暂存区</p>		
 	</dd>
 </dl>
+<h2>版本回退</h2>
+<dl>
+	<h4></h4>
+	<dd>
+		<p>git log || git log --pretty=oneline :(打印修改日志版本)</p>
+		<p>git reset --hard HEAD^ :(版本回退)</p>
+		<p>cat '文件' :(打印出内容)</p>
+	</dd>
+</dl>
 
 
