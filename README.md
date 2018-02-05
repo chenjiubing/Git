@@ -67,5 +67,13 @@
 		<p>已经提交了不合适的修改到版本库时，想要撤销本次提交，参考版本回退一节，不过前提是没有推送到远程库</p>
 	</dd>
 </dl>
+<h2>删除文件</h2>
+<dl>
+	<dd>
+		<p>rm test.txt</p>
+		<p>git rm test.txt</p>
+		<p>git checkout -- test.txt(错删从版本库获取)</p>
+	</dd>
+</dl>
 
 
